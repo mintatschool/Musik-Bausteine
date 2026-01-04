@@ -6,9 +6,12 @@
 
 Dies ist ein Musik-Sequenzer zum Erstellen von Beats und Melodien.
 
-## Lokal ausführen
+## Online aufrufen 🌐
 
-**Voraussetzungen:** Node.js
+Die App ist live unter:
+👉 [**https://mintatschool.github.io/Musik-Bausteine/**](https://mintatschool.github.io/Musik-Bausteine/)
+
+## Lokal ausführen 💻
 
 1.  Abhängigkeiten installieren:
     `npm install`
